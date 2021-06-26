@@ -106,3 +106,8 @@ h2 {
   width: 540px;
   height: 450px;
 }
+
+aside img{
+  margin: auto;
+  border-radius: 25px;
+}
